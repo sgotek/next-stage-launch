@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761581658895,
+      "tag": "0000_silly_rage",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1761581736529,
+      "tag": "0001_bright_sprite",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1761583322946,
+      "tag": "0002_flowery_captain_marvel",
+      "breakpoints": true
+    }
+  ]
+}
